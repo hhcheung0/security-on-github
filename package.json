@@ -8,10 +8,15 @@
     "hoek": "^4.0.0",
     "npm": "^6.4.1",
     "streaming-json-stringify": "^3.1.0"
-  },
+  }
   "devDependencies": {
+update-dependency
+    "eslint": "^3.8.1"
+  },
+
     "eslint": "^6.2.2"
   },
+main
   "engines": {
     "npm": "2.15.0"
   },
